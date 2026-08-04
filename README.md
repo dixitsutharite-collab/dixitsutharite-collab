@@ -97,19 +97,6 @@ I continuously explore new technologies and enjoy solving complex technical chal
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dixitsutharite-collab&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixitsutharite-collab&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dixitsutharite-collab&theme=tokyonight" />
-</p>
-
----
-
 ## 🌟 Featured Skills
 
 ✔ Full Stack Development
