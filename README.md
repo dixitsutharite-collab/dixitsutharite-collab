@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Software Developer** with over **3 years of professional experience** building modern, scalable, and high-performance web applications.
+I'm a passionate **Full Stack Software Developer** with over **4 years of professional experience** building modern, scalable, and high-performance web applications.
 
 I enjoy transforming business requirements into reliable software using modern frontend and backend technologies. My expertise includes developing REST APIs, enterprise applications, responsive user interfaces, and database-driven systems while following clean architecture and best software engineering practices.
 
