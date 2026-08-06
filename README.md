@@ -43,7 +43,7 @@ I continuously explore new technologies and enjoy solving complex technical chal
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,python" />
 </p>
 
 ### Database
