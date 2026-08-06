@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dixit Suthar</h1>
-<h3 align="center">Full Stack Software Developer | .NET | Node.js | Angular | Building Scalable Web Applications</h3>
+<h3 align="center">Full Stack Software Developer | .NET | Node.js | Angular | Python | Building Scalable Web Applications</h3>
 
 <p align="center">
   <a href="https://github.com/dixitsutharite-collab">
