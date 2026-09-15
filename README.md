@@ -11,11 +11,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Software Developer** with over **4 years of professional experience** building modern, scalable, and high-performance web applications.
+I’m a Full-Stack Software Developer with experience building scalable web applications and working across both front-end and back-end technologies. My core skills include C#, Python, JavaScript, .NET, React, and Angular, along with a strong focus on clean code, performance, and maintainability.
 
-I enjoy transforming business requirements into reliable software using modern frontend and backend technologies. My expertise includes developing REST APIs, enterprise applications, responsive user interfaces, and database-driven systems while following clean architecture and best software engineering practices.
+Over the years, I’ve worked on challenging projects where problem-solving, attention to detail, and continuous learning have been essential. I enjoy taking complex requirements and turning them into simple, reliable, and user-focused solutions.
 
-I continuously explore new technologies and enjoy solving complex technical challenges through efficient and maintainable code.
+As technology evolves, so does my learning journey. I’m increasingly focused on AI, Generative AI, and Agentic AI, exploring how intelligent systems and AI agents can be integrated with modern full-stack applications.
+
+I’m passionate about building scalable, intelligent, and innovative software and excited to take on opportunities where technology, creativity, and problem-solving come together.
 
 ---
 
