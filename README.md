@@ -70,12 +70,11 @@ I’m passionate about building scalable, intelligent, and innovative software a
 
 ## 🎯 Currently Learning
 
-- Microservices Architecture
-- System Design
-- Kubernetes
-- CI/CD Pipelines
-- Advanced Cloud Development
-- AI-Assisted Software Development
+- Agentic AI & MCP
+- RAG engineering with vector databases (pgvector / Qdrant)
+- LLM evaluation & observability (RAGAS, Langfuse, LLM-as-judge)
+- Fine-tuning open models with LoRA/QLoRA (Hugging Face PEFT)
+- Cloud AI platforms: Azure OpenAI / Azure AI Foundry
 
 ---
 
